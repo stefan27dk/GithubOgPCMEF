@@ -10,7 +10,7 @@ namespace GithubOgPCMEF
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("hej stefan");
 
         }
     }
